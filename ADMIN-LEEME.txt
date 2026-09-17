@@ -1,0 +1,14 @@
+HENKO — PANEL DE ADMINISTRACIÓN
+
+Esta versión conserva la web actual y agrega admin.html como maqueta funcional de la estructura del futuro panel.
+
+IMPORTANTE: todavía NO hay usuario/contraseña real ni cambios online. Eso requiere conectar la web a hosting + autenticación + almacenamiento seguro. No se debe guardar una contraseña dentro de un HTML estático.
+
+Al publicar, el objetivo será:
+- /admin con acceso privado
+- Proyectos: agregar, borrar y ordenar fotos
+- Productos: cambiar fotos y textos
+- Nosotros: cambiar foto y texto
+- Inicio: cambiar portada/textos
+
+La web pública actual no fue reemplazada ni rediseñada.

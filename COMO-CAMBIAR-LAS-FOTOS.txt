@@ -1,0 +1,22 @@
+HENKO — CÓMO CAMBIAR LAS FOTOS
+
+1. Abrí la carpeta "fotos".
+2. Buscá la foto que querés cambiar.
+3. Pegá tu foto nueva en esa misma carpeta.
+4. Poné EXACTAMENTE el mismo nombre que el archivo existente (incluido .jpg).
+5. Windows te preguntará si querés reemplazar el archivo: elegí "Reemplazar".
+6. Volvé a abrir index.html o actualizá Chrome con Ctrl + F5.
+
+IMPORTANTE: no hace falta tocar el código.
+
+Ejemplos:
+- Inicio: inicio.jpg
+- Nosotros: nosotros.jpg
+- Revestimientos: revestimientos.jpg
+- Wallpanel: wallpanel.jpg
+- Cielorraso: cielorraso.jpg
+- Mampara corrediza: corrediza.jpg
+- Barandas: barandas.jpg
+- Vidrios: vidrios.jpg
+
+Las nuevas secciones ya tienen archivos placeholder dentro de "fotos" para que solo los reemplaces.
