@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: henkoaberturas/Henko
+  branch: principal
+
+media_folder: "fotos"
+public_folder: "/Henko/fotos"
+
+collections:
+  - name: "contenido"
+    label: "Contenido de la web"
+    files:
+      - name: "inicio"
+        label: "Página principal"
+        file: "contenido/inicio.json"
+        format: "json"
+        fields:
+          - { label: "Título principal", name: "titulo", widget: "string" }
+          - { label: "Texto principal", name: "texto", widget: "text" }
